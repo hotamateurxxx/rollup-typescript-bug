@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "build": "gulp -f build/gulpfile.ts build"
+        "build": "gulp -f subfolder/build-gulp-rollup.ts build"
     },
     "devDependencies": {
         "@rollup/plugin-typescript": "^8.3.0",
